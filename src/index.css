@@ -1,0 +1,13 @@
+ul{
+    background-color: rgb(160, 160, 193);
+    list-style: none;
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+    font-size: 30px;
+    margin: 50px 100px 0 100px;
+    border: solid 2px gray;
+    border-radius: 16px;
+    color: rgb(67, 53, 43);
+}   
